@@ -36,6 +36,8 @@ Animated Video Generation: Users will have the option to input descriptions or u
 Flexible Input Options: Users can provide either a description of the desired video or input hand gestures directly, allowing for greater creativity and personalization.
 Editing Features: Editing tools will be integrated, enabling users to customize their outputs according to personal preferences.
 
+![WhatsApp Image 2024-09-30 at 01 57 08_5cf967ea](https://github.com/user-attachments/assets/3f9d067d-2976-42b3-b0fa-f6d9e45a352e)
+
 # Moving Forward
 To complete the remaining parts of the project, I plan to follow these steps:
 
@@ -74,7 +76,7 @@ The Cartoonify application processes images to create cartoon effects.
 Users interact with the system via hand gestures, enabling a dynamic and engaging drawing experience.
 A web interface will be developed to facilitate user choices between using Air Canvas, cartoonifying images, or leveraging the integrated features.
 
-
+![image](https://github.com/user-attachments/assets/6bcba792-d71b-4c69-8c85-55dd1031b314)
 
 # Challenges Faced and Solutions
 1. Gesture Recognition Accuracy
